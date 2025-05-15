@@ -94,16 +94,16 @@ export const resumeData: ResumeData = {
         "ARIMA",
       ],
     },
-    {
-      title: "Integrated Reconnaissance System for Defense Threat Analysis",
-      duration: "Dec ’23 - Jan ’24",
-      category: "tech",
-      description: [
-        "Engineered a defense solution using (CNN) and Large Language and Vision Assistant (LLAVA) for threat recognition enhances situational awareness by processing visual data with CNN and providing explanations through LLAVA.",
-        "Proficiently implementing and optimizing the YOLO (You Only Look Once) algorithm for efficient and accurate object detection. Contributed in deep learning-based object detection, with focus on applications like object tracking.",
-      ],
-      technologies: ["CNN", "LLAVA", "YOLO", "Object Detection"],
-    },
+    // {
+    //   title: "Integrated Reconnaissance System for Defense Threat Analysis",
+    //   duration: "Dec ’23 - Jan ’24",
+    //   category: "tech",
+    //   description: [
+    //     "Engineered a defense solution using (CNN) and Large Language and Vision Assistant (LLAVA) for threat recognition enhances situational awareness by processing visual data with CNN and providing explanations through LLAVA.",
+    //     "Proficiently implementing and optimizing the YOLO (You Only Look Once) algorithm for efficient and accurate object detection. Contributed in deep learning-based object detection, with focus on applications like object tracking.",
+    //   ],
+    //   technologies: ["CNN", "LLAVA", "YOLO", "Object Detection"],
+    // },
     {
       title: "Deep Learning And Neural Networks",
       duration: "May ’24 - Present",
