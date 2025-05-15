@@ -208,17 +208,17 @@ export const resumeData: ResumeData = {
         "Monte Carlo Simulation",
       ],
     },
-    {
-      title: "Data Structures And Algorithms",
-      duration: "May ’23 - Jul ’23",
-      category: "tech",
-      description: [
-        "Skilled in wide range of data structures, including trees, lists, maps, queues, hash tables, stacks, and AVL trees.",
-        "Mastered some essential algorithms like the KMP algorithm, Dijkstra’s, Bellman-Ford, Prim’s, and Kruskal’s algorithms, as well as Depth-First and Breadth-First algorithms and tackled some advanced problem using algorithms.",
-        "Proficiently employed OOP principles to ingeniously design and optimize solutions for the Tower of Hanoi game.",
-      ],
-      technologies: ["Data Structures", "Algorithms", "OOP"],
-    },
+    // {
+    //   title: "Data Structures And Algorithms",
+    //   duration: "May ’23 - Jul ’23",
+    //   category: "tech",
+    //   description: [
+    //     "Skilled in wide range of data structures, including trees, lists, maps, queues, hash tables, stacks, and AVL trees.",
+    //     "Mastered some essential algorithms like the KMP algorithm, Dijkstra’s, Bellman-Ford, Prim’s, and Kruskal’s algorithms, as well as Depth-First and Breadth-First algorithms and tackled some advanced problem using algorithms.",
+    //     "Proficiently employed OOP principles to ingeniously design and optimize solutions for the Tower of Hanoi game.",
+    //   ],
+    //   technologies: ["Data Structures", "Algorithms", "OOP"],
+    // },
     {
       title: "Prototype of a UV Air Purifier",
       duration: "Feb ’24 - Apr ’24",
